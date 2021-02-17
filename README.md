@@ -6,9 +6,6 @@ Finite element meshing and analysis is handled in the `FEA` module, while the lo
 To run the model type `python main.py 'SAVE_PATH' 'MODEL_NAME' 'DATA_PATH'`. The following additional arguments can also be parsed:
 
 ```python
-parser.add_argument('SAVE_PATH')
-parser.add_argument('model_name')
-parser.add_argument('DATA_PATH')
 parser.add_argument('--pretrained',default="")
 parser.add_argument('--batch_size', default=16, type=int)
 parser.add_argument('--epochs', default=100, type=int)
