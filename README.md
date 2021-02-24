@@ -16,3 +16,5 @@ parser.add_argument('--vol_penal', default=1e1, type=float) # volume penalizatio
 ```
 
 Send a mail to maoel@mek.dtu.dk if you want to obtain the datasets needed to train the model.
+
+![alt text](IMG/design_examples.png)
