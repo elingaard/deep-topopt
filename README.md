@@ -15,6 +15,6 @@ parser.add_argument('--dens_penal', default=2, type=float) # SIMP penalization
 parser.add_argument('--vol_penal', default=1e1, type=float) # volume penalization
 ```
 
-Send a mail to maoel@mek.dtu.dk if you want to obtain the datasets needed to train the model.
-
 ![alt text](IMG/design_examples.png)
+
+Send a mail to maoel@mek.dtu.dk if you want to obtain the datasets needed to train the model.
